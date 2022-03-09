@@ -180,7 +180,7 @@
                   <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Invoke SendEmail workflow" sap:VirtualizedContainerService.HintSize="334,112" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_3" UnSafe="False" WorkflowFileName="Common\SendEmail.xaml">
                     <ui:InvokeWorkflowFile.Arguments>
                       <InArgument x:TypeArguments="x:String" x:Key="in_To">
-                        <Literal x:TypeArguments="x:String">yasmin.evkrn@gmail.com</Literal>
+                        <Literal x:TypeArguments="x:String">robustayasmin@gmail.com</Literal>
                       </InArgument>
                       <InArgument x:TypeArguments="x:String" x:Key="in_Subject">
                         <Literal x:TypeArguments="x:String">System1 Login Rebort</Literal>
